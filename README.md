@@ -57,6 +57,12 @@ NB_IV3_LAYERS_TO_FREEZE = 172
 import TP_Deep_3_fine_tuning
 TP_Deep_3_fine_tuning.train(MonArg("train_cheese","test_cheese"))
 ```
+
+## Run the tutorials in Browser
+This link is to run the first part of these 3 tutorials, tp1 in the browser with Zero installation time. You just need a google acount. It is all free of charge! 
+
+https://colab.research.google.com/github/StephaneCanu/Deep_learning_lecture/blob/master/TP1_MNIST.ipynb#scrollTo=PcgyO7Izza2w
+
 ## To go further
 
 - [A 'Brief' History of Neural Nets and Deep Learning, December 24, 2015 by Andrey Kurenkov](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
